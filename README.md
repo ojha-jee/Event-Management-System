@@ -106,3 +106,15 @@ git clone https://github.com/ojha-jee/event-management-system.git
 Update-Database
 
 # Start the app and visit http://localhost:<port>
+
+---
+
+## 📞 Contact Us
+
+If you have any questions, suggestions, or feedback about this project, feel free to reach out:
+
+- 👨‍💻 **Developer**: Shivam Ojha  
+- 📧 **Email**: [ojha0205@gmail.com](mailto:ojha0205@gmail.com)  
+- 🔗 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shivam-ojhajee/)
+
+> 💬 We're happy to hear from you! Your feedback helps improve this project.
