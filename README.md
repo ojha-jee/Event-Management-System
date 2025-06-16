@@ -87,10 +87,10 @@ The **Event Management System (EMS)** is a full-stack web application that enabl
 ## 📸 UI Snapshots (Coming Soon)
 
 > Add screenshots of:
-> - Login Page
-> - Admin Dashboard
-> - Event Registration Modal
-> - My Events Page
+> - Front Page Preview: ![Front Page](FrontPage.jpg)
+> - Login Page:  ![Login](LoginPage.jpg)
+> - Admin Dashboard:   ![Admin Dashboard](Admin.jpg)
+> - My Events Page: ![My Events](Events.jpg)
 
 ---
 
